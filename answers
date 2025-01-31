@@ -1,0 +1,16 @@
+Answer-2
+Comments are used for documentation,comments are ignored by compiler ,it also explains the code ,so the code viewer who try to understand code at that time comments helps them to understand code
+
+Answer-4
+In html we have two types of tag
+a.paired tag-->consist opening and closing tag
+    ex-<html>(opening tag)</html>(closing tag)
+        <p>(opening tag)</p>(closing tag) etc
+b.self closing tag--> consist one tag only
+    ex-<br>
+        <hr>etc
+tags are the structural component of a code it contains angular brackets
+elements are defined by a start tag content and close tag
+
+Answer-5
+DOCTYPE is the first line in every html code,which tells the browser which version of html used in the code
